@@ -9,7 +9,7 @@ var config = {
     context  : __dirname + '/src',
     entry    : {
         editor: [
-            './editor.js'
+            './editor.js',
         ]
     },
     output   : {

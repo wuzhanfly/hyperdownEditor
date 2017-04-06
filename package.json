@@ -3,6 +3,7 @@
     "babel-core": "^6.24.0",
     "babel-loader": "^6.4.1",
     "css-loader": "^0.28.0",
+    "highlight.js": "^9.10.0",
     "node-sass": "^4.5.2",
     "sass-loader": "^6.0.3",
     "style-loader": "^0.16.1",

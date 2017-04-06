@@ -344,3 +344,10 @@ Editor.prototype.createToolbar = function (items) {
 };
 
 window.Editor = new Editor;
+
+let hljs = require('highlight.js');
+$(document).ready(function() {
+    $('pre code').each(function(i, block) {
+        hljs.highlightBlock(block);
+    });
+});
