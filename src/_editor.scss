@@ -16,6 +16,13 @@
 
   textarea {
     width: 100%;
+    &:focus {
+      outline: none;
+    }
+  }
+
+  .editor-mode {
+    float: right;
   }
 
 }
