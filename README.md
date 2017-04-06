@@ -1,5 +1,2 @@
-# sf__pagedown
-深度定制化的 pagedown
-
-
- requirejs
+# hyperdownEditor
+一款模仿 SF Editor 的 MD 编辑器
